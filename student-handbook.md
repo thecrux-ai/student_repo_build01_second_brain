@@ -150,13 +150,7 @@ This is an empty folder structure tailored to YOUR role, ready for you to start 
 ```
 I want to set up a "my-second-brain" folder structure in this project.
 Based on what you know about me from CLAUDE.md, create a directory
-structure that would be useful for MY work. Include:
-
-- A place for project notes and documents
-- A place for meeting notes and decisions
-- A place for templates I reuse
-- A place for reference material and research
-- A daily log / journal area
+structure that would be useful for MY work and serve as my second brain, helping me organize my work.
 
 Create the folders, add a README in each one explaining what goes there,
 and create 2-3 starter templates that would be useful for my specific role.
